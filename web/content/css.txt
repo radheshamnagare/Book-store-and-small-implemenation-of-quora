@@ -1,0 +1,6 @@
+CSS (Cascading Style Sheets) is used to style and layout web pages — for example, 
+to alter the font, colour, size and spacing of your content, split it into multiple 
+columns, or add animations and other decorative features. This module gets you started 
+on the path to CSS mastery with the basics of how it works, including selectors and 
+properties, writing CSS rules, applying CSS to HTML, how to specify length, colour, 
+and other units in CSS, cascade and inheritance,and debugging CSS.

@@ -1,0 +1,10 @@
+﻿ JavaScript being around for over two decades about everywhere you can imagine. Some of the world
+ most prominent websites such as eBay,Linkedin, Amazon, and Facebook are built on JavaScript, and The web browser is one of
+ the most used applications on both desktop and mobile devices. With more and more services
+ moving to the web, JavaScript will only increase in popularity, and as a whole, there is a
+ lot of technical innovation going in on JavaScript.
+
+JavaScript Runs Everything (Almost)
+JavaScript is estimated to be running on over 3 billion devices worldwide – smartphones,
+ desktops, ATMs, medical devices, Kindles, and more. On top of that, JavaScript plays a 
+ major part in the Internet of Things (IoT) and Cloud development. 

@@ -1,0 +1,6 @@
+
+HTML is a Language, as it has code-words and syntax like any other language.
+HTML is the acronym for Hyper Text Markup Language. It is a form of programming language 
+that is used to make web pages on the internet viewable. So it can be said that it is
+ because of HTML that web pages are interesting to look at, but the importance of HTML 
+ is often taken for granted. 

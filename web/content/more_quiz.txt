@@ -1,0 +1,4 @@
+A quiz can function throughout a course as an informative feedback device allowing both 
+the instructor and the students to see where they are excelling or need more focus. 
+In order to effectively create exams and quizzes, it is important to establish and 
+understand the learning objectives that are being measured.
