@@ -1,4 +1,4 @@
-# java-web-app
+# Book store and small implementation of quora
 
 About Project :
 
