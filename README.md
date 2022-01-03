@@ -39,8 +39,8 @@
   - Admin can temporary block user account if user breaks the policies
   
 - Downloads & uploads unlimited Books 
- - user can downloads as possible as
- - user can uploads as possible as
+  - user can downloads as possible as
+  - user can uploads as possible as
 
 ## Future Post
 - User can create e-learning courses
